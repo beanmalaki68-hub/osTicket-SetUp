@@ -26,3 +26,7 @@ The first thing I had to do was remote log into the Virtual Machine that I creat
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/J_tuRvumB74
+
+
+# Step 2 - Sign into osTicket and create the first Role
+

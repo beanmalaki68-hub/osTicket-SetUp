@@ -83,3 +83,12 @@ I then created SLA (Service Level Agreements). These SLA tell Helpdesk professio
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/0NYNn_UVElA
+
+# Step 9 - Creating Help Topics
+
+I then created help topics within osTicket as these can be used to describe or categorize the ticket that is received.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/OGlZ481Nd8w
+

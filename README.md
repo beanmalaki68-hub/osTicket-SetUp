@@ -30,3 +30,8 @@ https://youtu.be/J_tuRvumB74
 
 # Step 2 - Sign into osTicket and create the first Role
 
+I then signed into osTicket and created a Role. Roles are a group of permissions that can be assigned to a department or user.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/2PBcSuJESqg

@@ -35,3 +35,13 @@ I then signed into osTicket and created a Role. Roles are a group of permissions
 <h2>Video Walkthrough</h2>
 
 https://youtu.be/2PBcSuJESqg
+
+# Step 3 - Creating a SysAdmins Department 
+
+Next, I created a department with elevate permissions called SysAdmins. Departments are important in osTicket because they organize tickets and route them to the appropriate team or staff members so issues can be handled efficiently.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/tExmii-UmJ8
+
+# Step 4 - Creating Teams

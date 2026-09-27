@@ -68,4 +68,18 @@ I then went in a create workers/agents. These agents will represent the actual w
 
 https://youtu.be/A_R5rpFa1FI
 
-# Step 7 - 
+# Step 7 - Creating a User in osTicket
+
+Next, I created the user Karen. She will act as the end-user in our next lab and be the person who actually makes the ticket. 
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/mMKFWe1etkk
+
+# Step 8 - Configuring SLA
+
+I then created SLA (Service Level Agreements). These SLA tell Helpdesk professional how long they have to respond to or resolve a specific ticket.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/0NYNn_UVElA

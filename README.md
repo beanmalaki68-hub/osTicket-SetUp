@@ -45,3 +45,27 @@ Next, I created a department with elevate permissions called SysAdmins. Departme
 https://youtu.be/tExmii-UmJ8
 
 # Step 4 - Creating Teams
+
+Then, I created a Team. Teams are useful when people from different departments need to work together. A team allows those staff members to be grouped together to handle specific projects or types of tickets.
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/Jf3-y6Nl4cs
+
+# Step 5 - Enabling all end-users to create a ticket
+
+After that I went to settings and made sure that people are able to submit ticket regardless of if they have an account or not. 
+
+<h2>Video Walkthrough</h2>
+
+https://youtu.be/OyYDzLzz3YQ
+
+# Step 6 - Creating Agents/Workers
+
+I then went in a create workers/agents. These agents will represent the actual workers at the company. 
+
+<h2>Video Walkthorugh</h2>
+
+https://youtu.be/A_R5rpFa1FI
+
+# Step 7 - 

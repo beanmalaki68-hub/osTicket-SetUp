@@ -17,6 +17,6 @@
 - Windows 11 Pro</b> (21H2)
 
 
-<h2>Step 1 - </h2>
+<h2>Step 1 - Remoting into VM from previous Lab</h2>
 
 

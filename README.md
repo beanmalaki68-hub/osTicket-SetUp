@@ -16,9 +16,9 @@
 - Windows 11 Pro</b> (21H2)
 
 
-# Step 1 - Remoting into VM from previous Lab 
+# Step 1 - Remoting into VM
 
-The first thing I had to do was remote log into the Virtual Machine that I created in the previous lab that has osTicket installed. 
+The first thing I had to do was remote log into the Virtual Machine that I created  previously that has osTicket installed. 
 
 <h2>Video Walkthrough</h2>
 

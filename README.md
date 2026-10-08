@@ -5,9 +5,6 @@
 <h1>osTicket - Post-Install Configuration</h1>
 
 
-https://github.com/user-attachments/assets/76c05425-5410-44e2-9cf8-f1fccc1877c8
-
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
